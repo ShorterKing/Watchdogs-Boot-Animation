@@ -9,6 +9,9 @@ Watchdogs Boot Animation is a custom Android boot animation inspired by the popu
 Compatibility:
 This boot animation is compatible with all Android devices that support custom boot animations. However, please note that your device's bootloader must be unlocked to apply custom boot animations. Before proceeding, ensure that you have the necessary knowledge and experience to unlock your bootloader, as it may void your warranty or cause data loss.
 
+![d7mv1gp-78b2d5a8-99b6-4874-80a9-3427238c4f62](https://github.com/ShorterKing/Watchdogs-Boot-Animation/assets/84120105/85dcc6d5-563a-4212-b3b7-abd97897e1bd)
+
+
 Installation Instructions:
 
 Ensure your Android device's bootloader is unlocked. If you are not sure how to do this, refer to your device's documentation or check online resources for a step-by-step guide specific to your device model.
