@@ -1,7 +1,7 @@
 🚀 Watchdogs Boot Animation | CTOS-Inspired Startup
 This is the legendary CTOS Boot Animation from the Watchdogs game—bringing the cyberpunk hacker aesthetic straight to your Android device. If you're a fan of Watchdogs or just love sleek, futuristic boot animations, this is for you!
 
-![d7mv1gp-78b2d5a8-99b6-4874-80a9-3427238c4f62](https://github.com/ShorterKing/Watchdogs-Boot-Animation/assets/84120105/85dcc6d5-563a-4212-b3b7-abd97897e1bd)
+🔗 Preview the Animation: Watchdogs Boot Animation GIF
 
 🔥 Features
 ✅ Authentic CTOS Boot Animation – Inspired by the Watchdogs series for a true hacker vibe.
@@ -25,7 +25,7 @@ This is the legendary CTOS Boot Animation from the Watchdogs game—bringing the
 📢 Warning! Flashing custom boot animations comes with risks. Incorrect installation could cause boot loops or data loss. Proceed only if you understand the risks. The developer is not responsible for any damage to your device.
 
 💬 Support & Contributions
-🔧 Found a bug? Have a suggestion? Open an issue on GitHub!
+🔧 Found a bug? Do you have a suggestion? Open an issue on GitHub!
 💡 Want to contribute? Feel free to fork the project and submit a pull request.
 
 👏 Credits
